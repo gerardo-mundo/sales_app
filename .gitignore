@@ -1,0 +1,53 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+
+# Django specific files
+*.log
+db.sqlite3
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Static and media files
+staticfiles/
+media/
+
+# VSCode specific
+.vscode/
+
+# pyenv version manager
+.python-version
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+coverage.xml
+*.gcda
+*.gcno
+*.lcov
+.cache
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
